@@ -1,4 +1,4 @@
-# This instructional technology research project is simply investigating new ways to provide reference materials for educators. It is not affliated with any federal, state, or local agencies.
+# This instructional technology research project is simply investigating new ways to provide reference materials for educators. ***This project is not affliated with any federal, state, or local agencies.***
 
 ### Deliverables
 
