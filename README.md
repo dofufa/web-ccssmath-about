@@ -2,7 +2,7 @@
 
 ### Deliverables
 
-Two repos contain the Math and ELA Standards:
+Two repos contain the Math and ELA Standards in many formats:
   + [https://github.com/ccssapp/ccssmath][math]
   + [https://github.com/ccssapp/ccssela][ela]
 
